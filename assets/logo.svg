@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#7c3aed"/><stop offset="1" stop-color="#06b6d4"/></linearGradient></defs>
+<rect width="1600" height="900" fill="#070a0f"/><circle cx="1280" cy="180" r="260" fill="#7c3aed" opacity=".16"/><circle cx="350" cy="730" r="300" fill="#06b6d4" opacity=".10"/>
+<path d="M180 520 L320 260 L460 520 L320 610 Z" fill="none" stroke="url(#g)" stroke-width="24"/><circle cx="320" cy="430" r="42" fill="#fff"/>
+<text x="540" y="405" font-family="Inter,Arial,sans-serif" font-size="88" font-weight="800" fill="white">RemitLoop</text>
+<text x="545" y="485" font-family="Inter,Arial,sans-serif" font-size="32" fill="#a7b0c0">Stellar • Soroban • Open Source</text>
+</svg>
